@@ -29,7 +29,7 @@
     "require": {
         "php": ">=5.4",
         "ext-mbstring": "*",
-        "rcnowak/yii2": "~2.0.13"
+        "rcnowak/yii2": "1.0"
     },
     "require-dev": {
         "yiisoft/yii2-swiftmailer": "*",
