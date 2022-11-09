@@ -29,7 +29,7 @@
     "require": {
         "php": ">=5.4",
         "ext-mbstring": "*",
-        "yiisoft/yii2": "~2.0.13"
+        "rcnowak/yii2": "~2.0.13"
     },
     "require-dev": {
         "yiisoft/yii2-swiftmailer": "*",
@@ -67,7 +67,20 @@
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+    {
+      "type": "package",
+      "package": {
+        "name": "rcnowak/yii2",
+        "version": "1.0",
+        "type": "framework",
+        "source": {
+          "url": "https://github.com/RCnowak/yii2.git",
+          "type": "git",
+          "reference": "master"
         }
+      }
+    }
     ],
     "config": {
         "allow-plugins": {
