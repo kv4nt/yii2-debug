@@ -32,7 +32,7 @@
         "rcnowak/yii2": "1.0"
     },
     "require-dev": {
-        "kv4nt/yii2-swiftmailer": "1.0",
+        "kv4nt/yii2-swiftmailer": "1.0.1",
         "yiisoft/yii2-coding-standards": "~2.0",
         "cweagans/composer-patches": "^1.7",
         "phpunit/phpunit": "4.8.34"
@@ -85,7 +85,7 @@
       "type": "package",
       "package": {
         "name": "kv4nt/yii2-swiftmailer",
-        "version": "1.0",
+        "version": "1.0.1",
         "type": "framework",
         "source": {
           "url": "https://github.com/kv4nt/yii2-swiftmailer.git",
